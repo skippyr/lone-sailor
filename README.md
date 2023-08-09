@@ -1,13 +1,9 @@
 # Lone Sailor
-
 ## About
-
 A low saturated dark theme.
-
 ![](preview.png)
 
 ### Palette
-
 | Name | Hex |
 | - | - |
 | black | `#140b0c` |
@@ -20,5 +16,4 @@ A low saturated dark theme.
 | white | `#bbaa88` |
 
 ## Copyright
-
-Copyright (c) 2023 Sherman Rofeman. MIT license.
+This software is under the MIT license. A copy of the license is bundled with the source code.
