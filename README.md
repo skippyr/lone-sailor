@@ -22,6 +22,9 @@ These are the colors used in the theme:
 | Cyan                | 6    | `#665944` |
 | White (foreground)  | 7    | `#bbaa88` |
 
+### Support
+Report issues, questions and suggestions through its [issues page](https://github.com/skippyr/lone-sailor/issues).
+
 ## Copyright
 This software is under the MIT license. A copy of the license is bundled with
 the source code.
